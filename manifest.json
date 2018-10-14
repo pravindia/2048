@@ -1,0 +1,121 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "2048",
+    "scope": "/2048/",
+    "display": "standalone",
+    "start_url": "https://gabrielecirulli.github.io/2048/",
+    "short_name": "2048",
+    "theme_color": "black",
+    "description": "Join the numbers and get to the 2048 tile! Careful: this game is extremely addictive!",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [
+        {
+            "platform": "itunes",
+            "url": "https://itunes.apple.com/app/id868076805"
+        }
+    ],
+    "prefer_related_applications": true,
+    "icons": [
+        {
+            "src": "/images/2048/favicon.ico",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/images/2048/meta/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/images/9a5b0e75-2a48-36db-7295-009dc61bb631.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/05637377-e951-1831-abb9-bd9aa5586977.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8edf2cb3-2b68-96f7-b03e-6e94ecd8adae.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/18ca7e3a-5c3e-a853-6d4e-a32fed6ee54e.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b3bee339-e0ec-7530-8624-f24c1462f5a2.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/bc65937e-6ff5-98a0-eaab-b3f327c70fc9.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9fc6c9fc-b773-8c6a-8979-bc4b8961b30c.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3d535339-ed98-ed2f-bdbf-7e92507b74ee.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7ab52971-c560-ea08-0280-6dd6569e1b65.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/90efa0d3-1068-b576-b5ed-4fd4fd913408.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/209ff6f0-825c-e945-57cd-1dc3912ede6b.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/603fad0e-4beb-74bb-3832-af9f5df056e4.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5df4d78f-ce06-e03e-7f8e-39719c7fc523.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7f12a4db-36b3-e08f-8e06-93b4b31042f7.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/70fe23ff-c41e-0074-e401-817e54fdccf6.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c8c1769f-aa30-d106-cb59-a0ac2d81a5c2.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5c8d9780-72ad-47b6-ca69-34f79931f604.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9a260723-d44f-64f9-85ca-5acc10fffd35.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
